@@ -1,2 +1,3 @@
 object_id,title,alt_text,featured,creator,description,source_url,period,year,medium_genre,subjects,source,credit,thumbnail
-telar-placeholder,Telar placeholder,,FALSE,Adelaida Ávila,,https://s3.us-east-1.amazonaws.com/iiif-manifest-cache-production/pid-tsb-110310,,2026,,,,,
+0001,"Example IIIF Item",,TRUE,,"Lorem ipsum dolor sit amet.",https://s3.us-east-1.amazonaws.com/iiif-manifest-cache-production/pid-tsb-110310,,,,,,,
+0002,"Another Example IIIF Item",,TRUE,,"Lorem ipsum dolor sit amet.",https://s3.us-east-1.amazonaws.com/iiif-manifest-cache-production/pid-tsb-110310,,,,,,,
