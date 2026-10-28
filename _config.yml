@@ -8,7 +8,7 @@ url: "https://kuna-art.github.io"
 baseurl: "/telar"
 author: ""
 email: ""
-telar_theme: "custom" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
+telar_theme: "paisajes" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
 logo: ""
 telar_language: "en" # Options: "en" (English), "es" (Español)
 collection_mode: true # Set to true to show objects first with large thumbnails and stories below with small thumbnails (collection-first homepage)
